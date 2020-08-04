@@ -1,6 +1,5 @@
 [masters]
-master.example.com
+master.localhost
 
 [workers]
-nodeone.example.com
-nodetwo.example.com
+slave.localhost
