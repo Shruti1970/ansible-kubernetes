@@ -20,7 +20,7 @@
 
    - name: install Docker
      yum:
-       name: docker
+       name: docker-ce
        state: present
        update_cache: true
 
